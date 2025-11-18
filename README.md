@@ -1,4 +1,3 @@
-```markdown
 # Font Resources Hub
 
 A collection of font resources for designers, hobbyists, and anyone looking to add beautiful typography to their projects.
